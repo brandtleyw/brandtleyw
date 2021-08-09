@@ -131,50 +131,6 @@
                 "email": "bille@nemobility.com",
                 "storeid": "06"
             }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "dealer",
-                "hours": "",
-                "contact": "",
-                "website": "",
-                "commercial": "",
-                "rentals": "",
-                "description": "",
-                "name": "",
-                "city": "",
-                "zip": "",
-                "phone": "",
-                "email": "",
-                "storeid": "750"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "dealer",
-                "hours": "",
-                "contact": "",
-                "website": "",
-                "commercial": "",
-                "rentals": "",
-                "description": "",
-                "name": "",
-                "city": "",
-                "zip": "",
-                "phone": "",
-                "email": "",
-                "storeid": "751"
-            }
         }
     ]
 }
