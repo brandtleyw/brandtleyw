@@ -3,54 +3,177 @@
     "features": [{
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.9893,
-                    41.14759
-                ]
+                "coordinates": [-73.9893,41.14759]
             },
             "type": "Feature",
             "properties": {
                 "category": "dealer",
                 "hours": "",
-                "description": "Noel",
+                "contact": "Noel",
+                "website": "homeandmobility.com",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
                 "name": "Home and Mobility Solutions",
+                "city": "New City, NY",
+                "zip": "10994",
                 "phone": "877-742-8509",
+                "email": "noel@homeandmobility.com",
                 "storeid": "01"
             }
         },
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.11847,
-                    40.90398
-                    
-                ]
+                "coordinates": [-74.11847,40.90398]
             },
             "type": "Feature",
             "properties": {
                 "category": "dealer",
                 "hours": "",
-                "description": "Ben",
+                "contact": "Ben",
+                "website": "https://www.able-care.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
                 "name": "Able Care Group",
+                "city": "Elmwood Park, NJ",
+                "zip": "07407",
                 "phone": "201-282-2233",
+                "email": "ben@able-care.net",
                 "storeid": "02"
             }
         },
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.81838,
-                    41.26259
-                    
-                ]
+                "coordinates": [-73.81838,41.26259]
             },
             "type": "Feature",
             "properties": {
                 "category": "dealer",
                 "hours": "",
-                "description": "Art",
+                "contact": "Art",
+                "website": "www.livehomesafely.com",
+                "commercial": "no",
+                "rentals": "yes",
+                "description": "",
                 "name": "Home-Safe Solutions",
+                "city": "Yorktown, NY",
+                "zip": "10598",
                 "phone": "914-302-2177",
+                "email": "livehomesafely@gmail.com",
                 "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.41709,40.75982]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Tom",
+                "website": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "NSM - Madison NJ",
+                "city": "Madison, NJ",
+                "zip": "07940",
+                "phone": "973-377-8990",
+                "email": "nsm194@nsm-seating.com",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.75623,42.65257]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Terry",
+                "website": "https://thealbanyliftcompany.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "Albany Lift Company",
+                "city": "Albany, NY",
+                "zip": "",
+                "phone": "518-393-2274",
+                "email": "tfarrigan@albanylift.com",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.83014,42.72266]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Bill",
+                "website": "https://nemobility.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "Northeast Mobility Center",
+                "city": "Albany, NY",
+                "zip": "12205",
+                "phone": "518-438-3646",
+                "email": "bille@nemobility.com",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "",
+                "website": "",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "",
+                "city": "",
+                "zip": "",
+                "phone": "",
+                "email": "",
+                "storeid": "750"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "",
+                "website": "",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "",
+                "city": "",
+                "zip": "",
+                "phone": "",
+                "email": "",
+                "storeid": "751"
             }
         }
     ]
