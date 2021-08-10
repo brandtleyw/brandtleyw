@@ -374,6 +374,181 @@
                 "email": "douglas.bergstrom@nsm-seating.com",
                 "storeid": "15"
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.65995609325348,
+                    43.18211925330756
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "",
+                "website": "www.accessliftsandramps.com",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "Access Lifts & Ramps",
+                "city": "Rochester, NY",
+                "zip": "14606",
+                "phone": "800-515-5438",
+                "email": "",
+                "storeid": "16"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.14742,
+                    43.04812
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Kevin",
+                "website": "https://www.moprocorp.com/",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "Mopro",
+                "city": "Syracuse, NY",
+                "zip": "13214",
+                "phone": "315-472-0707",
+                "email": "kevin.reap@moprocorp.com",
+                "storeid": "17"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.12263,
+                    42.79541
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Charles",
+                "website": "https://www.northstarlifts.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "NorthStar Lifts, LLC",
+                "city": "Tully, NY",
+                "zip": "13159",
+                "phone": "315-864-6006",
+                "email": "charlesfreiberger1@gmail.com",
+                "storeid": "18"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8813,
+                    41.24591
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Stacey",
+                "website": "https://www.flexiblemobility.net/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers North Eastern PA",
+                "name": "Flexible Mobility, Inc.",
+                "city": "Wilkes-Barre, PA",
+                "zip": "18702",
+                "phone": "570-824-6620",
+                "email": "flexiblemobility2@gmail.com",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.70697,
+                    40.66964
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Chung",
+                "website": "https://alphacaresupply.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all 5 burrows and western Nassau County Long Island",
+                "name": "Alpha Care Supply - NASSAU",
+                "city": "Valley Stream, NY",
+                "zip": "11580",
+                "phone": "516-568-3010",
+                "email": "chung@alphacaresupply.com",
+                "storeid": "20"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.08308107328392,
+                    40.78442798374516
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Chung",
+                "website": "https://alphacaresupply.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Suffolk County Long Island",
+                "name": "Alpha Care Supply - SUFFOLK",
+                "city": "Holbrook, NY",
+                "zip": "11741",
+                "phone": "631-778-7145",
+                "email": "chung@alphacaresupply.com",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.37705,
+                    40.73194
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Annie",
+                "website": "http://patriotmobilityinc.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers East to Nassau and some burrows",
+                "name": "Patriot Mobility - Long Island",
+                "city": "East Medow, NY",
+                "zip": "",
+                "phone": "800-392-9036",
+                "email": "ippolito@patriotmobilityinc.com",
+                "storeid": "22"
+            }
         }
     ]
 }
