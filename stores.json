@@ -3,7 +3,10 @@
     "features": [{
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.9893,41.14759]
+                "coordinates": [
+                    -73.9893,
+                    41.14759
+                ]
             },
             "type": "Feature",
             "properties": {
@@ -25,7 +28,10 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.11847,40.90398]
+                "coordinates": [
+                    -74.11847,
+                    40.90398
+                ]
             },
             "type": "Feature",
             "properties": {
@@ -47,7 +53,10 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.81838,41.26259]
+                "coordinates": [
+                    -73.81838,
+                    41.26259
+                ]
             },
             "type": "Feature",
             "properties": {
@@ -69,7 +78,10 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.41709,40.75982]
+                "coordinates": [
+                    -74.41709,
+                    40.75982
+                ]
             },
             "type": "Feature",
             "properties": {
@@ -91,7 +103,10 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.75623,42.65257]
+                "coordinates": [
+                    -73.75623,
+                    42.65257
+                ]
             },
             "type": "Feature",
             "properties": {
@@ -113,7 +128,10 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.83014,42.72266]
+                "coordinates": [
+                    -73.83014,
+                    42.72266
+                ]
             },
             "type": "Feature",
             "properties": {
@@ -130,6 +148,231 @@
                 "phone": "518-438-3646",
                 "email": "bille@nemobility.com",
                 "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.91337,
+                    44.81007
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Kevin",
+                "website": "https://www.maineaccessibility.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all of Maine",
+                "name": "Maine Accessibility Corp - Hermon",
+                "city": "Hermon, ME",
+                "zip": "04401",
+                "phone": "207-848-3484",
+                "email": "kevin@meaccess.biz",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.39734,
+                    43.68083
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Kevin",
+                "website": "https://www.maineaccessibility.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all of Maine",
+                "name": "Maine Accessibility Corp - Gorham",
+                "city": "Gorham, ME",
+                "zip": "04038",
+                "phone": "207-767-5690",
+                "email": "kevin@meaccess.biz",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.25681,
+                    43.65909
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Ricki",
+                "website": "https://www.blackbearmedical.com/",
+                "commercial": "no",
+                "rentals": "",
+                "description": "",
+                "name": "Black Bear Medical",
+                "city": "Portland, ME",
+                "zip": "04101",
+                "phone": "207-871-0008",
+                "email": "ricki@blackbearmedical.com",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.53757,
+                    43.20813
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Heather",
+                "website": "http://www.awalifts.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Southern New Hampshire",
+                "name": "All ways Accessible",
+                "city": "Concord, NH",
+                "zip": "03301",
+                "phone": "800-684-0270",
+                "email": "HeatherBos@awalifts.com",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.21207,
+                    44.47588
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "",
+                "website": "https://www.nsm-seating.com/",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "Access NSM - Burlington 174",
+                "city": "Burlington, VT",
+                "zip": "05403",
+                "phone": "802-552-4190",
+                "email": "Burlington@nsm-seating.com",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.91615,
+                    42.13065
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "George",
+                "website": "https://www.nsm-seating.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Eastern MA",
+                "name": "Access NSM - Rockland ",
+                "city": "Rockland, MA",
+                "zip": "02370",
+                "phone": "781-261-9901",
+                "email": "George.Kay@nsm-seating.com",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.60786,
+                    42.1487
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Douglas",
+                "website": "https://www.nsm-seating.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Western MA",
+                "name": "Access NSM - Chicopee",
+                "city": "Chicopee, MA",
+                "zip": "01022",
+                "phone": "413-592-5464",
+                "email": "douglas.bergstrom@nsm-seating.com",
+                "storeid": "13"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.96213,
+                    41.88613
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Matt",
+                "website": "https://www.nsm-seating.com/",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all of CT",
+                "name": "Access NSM - Pomfret",
+                "city": "Pomfret Center, CT",
+                "zip": "06259",
+                "phone": "866-321-4442",
+                "email": "matt.butterfield@nsm-seating.com",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.41616,
+                    41.7001
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Douglas",
+                "website": "https://www.nsm-seating.com/",
+                "commercial": "",
+                "rentals": "",
+                "description": "Covers all of RI",
+                "name": "Access NSM - Providence",
+                "city": "Warwick, RI",
+                "zip": "02886",
+                "phone": "401-231-7100",
+                "email": "douglas.bergstrom@nsm-seating.com",
+                "storeid": "15"
             }
         }
     ]
