@@ -835,6 +835,44 @@
                 "email4": "",
                 "storeid": "22"
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1866957158519,
+                    25.86223969543555
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "",
+                "website": "http://www.warriorservicecompany.org/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers from Tampa Down",
+                "name": "Warrior Service",
+                "city": "Miami, FL",
+                "zip": "",
+                "phone": "",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "visn8@warriorservices.org",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "23"
+            }
         }
     ]
 }
