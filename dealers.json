@@ -1,1 +1,878 @@
-
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9893,
+                    41.14759
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Noel",
+                "website": "https://www.homeandmobility.com",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "Home and Mobility Solutions",
+                "city": "New City, NY",
+                "zip": "10994",
+                "phone": "877-742-8509",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "noel@homeandmobility.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11847,
+                    40.90398
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Ben",
+                "website": "https://www.able-care.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "Able Care Group",
+                "city": "Elmwood Park, NJ",
+                "zip": "07407",
+                "phone": "201-282-2233",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "ben@able-care.net",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.81838,
+                    41.26259
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Art",
+                "website": "https://www.livehomesafely.com",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "no",
+                "rentals": "yes",
+                "description": "",
+                "name": "Home-Safe Solutions",
+                "city": "Yorktown, NY",
+                "zip": "10598",
+                "phone": "914-302-2177",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "livehomesafely@gmail.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.41709,
+                    40.75982
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "fndealer",
+                "hours": "",
+                "contact": "Debbie",
+                "website": "https://www.nsm-seating.com/",
+                "vaonly": "no",
+                "freedomnow": "yes",
+                "homeaccess": "yes",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "NSM - Madison NJ",
+                "city": "Madison, NJ",
+                "zip": "07940",
+                "phone": "973-377-8990",
+                "office1": "216 956 7985",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "nsm194@nsm-seating.com",
+                "email1": "Debbie.Andrade@accessnsm.com",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75623,
+                    42.65257
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Terry",
+                "website": "https://thealbanyliftcompany.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "Albany Lift Company",
+                "city": "Albany, NY",
+                "zip": "",
+                "phone": "518-393-2274",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "tfarrigan@albanylift.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83014,
+                    42.72266
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Bill",
+                "website": "https://nemobility.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "Northeast Mobility Center",
+                "city": "Albany, NY",
+                "zip": "12205",
+                "phone": "518-438-3646",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "bille@nemobility.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.91337,
+                    44.81007
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "fndealer",
+                "hours": "",
+                "contact": "Kevin",
+                "website": "https://www.maineaccessibility.com/",
+                "vaonly": "no",
+                "freedomnow": "yes",
+                "homeaccess": "yes",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all of Maine",
+                "name": "Maine Accessibility Corp - Hermon",
+                "city": "Hermon, ME",
+                "zip": "04401",
+                "phone": "207-848-3484",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "kevin@meaccess.biz",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.39734,
+                    43.68083
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "fndealer",
+                "hours": "",
+                "contact": "Kevin",
+                "website": "https://www.maineaccessibility.com/",
+                "vaonly": "no",
+                "freedomnow": "yes",
+                "homeaccess": "yes",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all of Maine",
+                "name": "Maine Accessibility Corp - Gorham",
+                "city": "Gorham, ME",
+                "zip": "04038",
+                "phone": "207-767-5690",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "kevin@meaccess.biz",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.25681,
+                    43.65909
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Ricki",
+                "website": "https://www.blackbearmedical.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "no",
+                "rentals": "",
+                "description": "",
+                "name": "Black Bear Medical",
+                "city": "Portland, ME",
+                "zip": "04101",
+                "phone": "207-871-0008",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "ricki@blackbearmedical.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.53757,
+                    43.20813
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "fndealer",
+                "hours": "",
+                "contact": "Heather",
+                "website": "http://www.awalifts.com/",
+                "vaonly": "no",
+                "freedomnow": "yes",
+                "homeaccess": "yes",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Southern New Hampshire",
+                "name": "All-Ways Accessible",
+                "city": "Concord, NH",
+                "zip": "03301",
+                "phone": "800-684-0270",
+                "office1": "603 224 9226",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "HeatherBos@awalifts.com",
+                "email1": "nhaccesssales@nsm-seating.com",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.21207,
+                    44.47588
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "",
+                "website": "https://www.nsm-seating.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "Access NSM - Burlington 174",
+                "city": "Burlington, VT",
+                "zip": "05403",
+                "phone": "802-552-4190",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "Burlington@nsm-seating.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.91615,
+                    42.13065
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "George",
+                "website": "https://www.nsm-seating.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Eastern MA",
+                "name": "Access NSM - Rockland ",
+                "city": "Rockland, MA",
+                "zip": "02370",
+                "phone": "781-261-9901",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "George.Kay@nsm-seating.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.60786,
+                    42.1487
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Douglas",
+                "website": "https://www.nsm-seating.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Western MA",
+                "name": "Access NSM - Chicopee",
+                "city": "Chicopee, MA",
+                "zip": "01022",
+                "phone": "413-592-5464",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "douglas.bergstrom@nsm-seating.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "13"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.96213,
+                    41.88613
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "fndealer",
+                "hours": "",
+                "contact": "Matt",
+                "website": "https://www.nsm-seating.com/",
+                "vaonly": "no",
+                "freedomnow": "yes",
+                "homeaccess": "yes",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all of CT",
+                "name": "Access NSM - Pomfret",
+                "city": "Pomfret Center, CT",
+                "zip": "06259",
+                "phone": "866-321-4442",
+                "office1": "216 956 7985",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "matt.butterfield@nsm-seating.com",
+                "email1": "Debbie.Andrade@accessnsm.com",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.41616,
+                    41.7001
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Douglas",
+                "website": "https://www.nsm-seating.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "",
+                "rentals": "",
+                "description": "Covers all of RI",
+                "name": "Access NSM - Providence",
+                "city": "Warwick, RI",
+                "zip": "02886",
+                "phone": "401-231-7100",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "douglas.bergstrom@nsm-seating.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "15"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.65995609325348,
+                    43.18211925330756
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "fndealer",
+                "hours": "",
+                "contact": "Carrie",
+                "website": "https://www.accessliftsandramps.com",
+                "vaonly": "no",
+                "freedomnow": "yes",
+                "homeaccess": "yes",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "Access Lifts & Ramps",
+                "city": "Rochester, NY",
+                "zip": "14606",
+                "phone": "800-515-5438",
+                "office1": "585 505 7560",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "carrie@accessliftsandramps.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "16"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.14742,
+                    43.04812
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Kevin",
+                "website": "https://www.moprocorp.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "",
+                "rentals": "",
+                "description": "",
+                "name": "Mopro",
+                "city": "Syracuse, NY",
+                "zip": "13214",
+                "phone": "315-472-0707",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "kevin.reap@moprocorp.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "17"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.12263,
+                    42.79541
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Charles",
+                "website": "https://www.northstarlifts.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "",
+                "name": "NorthStar Lifts, LLC",
+                "city": "Tully, NY",
+                "zip": "13159",
+                "phone": "315-864-6006",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "charlesfreiberger1@gmail.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "18"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8813,
+                    41.24591
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "fndealer",
+                "hours": "",
+                "contact": "Stacey",
+                "website": "https://www.flexiblemobility.net/",
+                "vaonly": "no",
+                "freedomnow": "yes",
+                "homeaccess": "yes",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers North Eastern PA",
+                "name": "Flexible Mobility, Inc.",
+                "city": "Wilkes-Barre, PA",
+                "zip": "18702",
+                "phone": "570-824-6620",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "flexiblemobility2@gmail.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.70697,
+                    40.66964
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Chung",
+                "website": "https://alphacaresupply.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers all 5 burrows and western Nassau County Long Island",
+                "name": "Alpha Care Supply - NASSAU",
+                "city": "Valley Stream, NY",
+                "zip": "11580",
+                "phone": "516-568-3010",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "chung@alphacaresupply.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "20"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.08308107328392,
+                    40.78442798374516
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Chung",
+                "website": "https://alphacaresupply.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers Suffolk County Long Island",
+                "name": "Alpha Care Supply - SUFFOLK",
+                "city": "Holbrook, NY",
+                "zip": "11741",
+                "phone": "631-778-7145",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "chung@alphacaresupply.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.37705,
+                    40.73194
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "Annie",
+                "website": "http://patriotmobilityinc.com/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers East to Nassau and some burrows",
+                "name": "Patriot Mobility - Long Island",
+                "city": "East Medow, NY",
+                "zip": "",
+                "phone": "800-392-9036",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "ippolito@patriotmobilityinc.com",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "22"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1866957158519,
+                    25.86223969543555
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "dealer",
+                "hours": "",
+                "contact": "",
+                "website": "http://www.warriorservicecompany.org/",
+                "vaonly": "",
+                "freedomnow": "",
+                "homeaccess": "",
+                "commercial": "yes",
+                "rentals": "",
+                "description": "Covers from Tampa Down",
+                "name": "Warrior Service",
+                "city": "Miami, FL",
+                "zip": "",
+                "phone": "",
+                "office1": "",
+                "office2": "",
+                "office3": "",
+                "mobile1": "",
+                "mobile2": "",
+                "mobile3": "",
+                "email": "visn8@warriorservices.org",
+                "email1": "",
+                "email2": "",
+                "email3": "",
+                "email4": "",
+                "storeid": "23"
+            }
+        }
+    ]
+}
