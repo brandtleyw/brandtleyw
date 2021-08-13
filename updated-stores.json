@@ -841,52 +841,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.00,
-                    0.00
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "Name": "Mobility Works",
-                "description": "Street: 7450 Midlothian Turnpike<br>City: Richmond<br>State: VA<br>Zip: 23225<br>Notes: <br>AM: Dona<br>Contact: Patrise Cauls<br>Phone: 866-202-8607<br>Email: Patrise.Cauls@mobilityworks.com<br>Website: https://www.mobilityworks.com/<br>Other:  Richmond",
-                "Street": "7450 Midlothian Turnpike",
-                "City": "Richmond",
-                "State": "VA",
-                "Zip": "23225",
-                "Notes": "",
-                "AM": "Dona",
-                "Contact": "Patrise Cauls",
-                "Phone": "866-202-8607",
-                "Email": "Patrise.Cauls@mobilityworks.com",
-                "Website": "https://www.mobilityworks.com/",
-                "Other": " Richmond",
-                "vaonly": "",
-                "freedomnow": "",
-                "homeaccess": "",
-                "commercial": "",
-                "rentals": "",
-                "office1": "",
-                "office2": "",
-                "office3": "",
-                "mobile1": "",
-                "mobile2": "",
-                "mobile3": "",
-                "email1": "",
-                "email2": "",
-                "email3": "",
-                "email4": "",
-                "hours": "",
-                "category": "dealer",
-                "HubSpotId": "",
-                "EpicorId": "",
-                "EpicorNum": 0,
-                "storeid": "020"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -80.01867976427954,
                     32.86122179852941
                 ]
@@ -1301,52 +1255,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.00,
-                    0.00
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "Name": "Access NSM - IA",
-                "description": "Street: 3936 NW Urbandale Dr.<br>City: Des Moines<br>State: IA<br>Zip: 50322-7922<br>Notes: Yellow- Mostly VA can look into getting someone else in the area<br>AM: Trista<br>Contact: <br>Phone: <br>Email: Adam.Pender@nsm-seating.com<br>Website: https://www.nsm-seating.com/branch-locator-map/<br>Other:  VA",
-                "Street": "3936 NW Urbandale Dr.",
-                "City": "Des Moines",
-                "State": "IA",
-                "Zip": "50322-7922",
-                "Notes": "Yellow- Mostly VA can look into getting someone else in the area",
-                "AM": "Trista",
-                "Contact": "",
-                "Phone": "",
-                "Email": "Adam.Pender@nsm-seating.com",
-                "Website": "https://www.nsm-seating.com/branch-locator-map/",
-                "Other": " VA",
-                "vaonly": "",
-                "freedomnow": "",
-                "homeaccess": "",
-                "commercial": "",
-                "rentals": "",
-                "office1": "",
-                "office2": "",
-                "office3": "",
-                "mobile1": "",
-                "mobile2": "",
-                "mobile3": "",
-                "email1": "",
-                "email2": "",
-                "email3": "",
-                "email4": "",
-                "hours": "",
-                "category": "dealer",
-                "HubSpotId": "",
-                "EpicorId": "",
-                "EpicorNum": 0,
-                "storeid": "030"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -97.28818441009042,
                     49.884899554097416
                 ]
@@ -1393,8 +1301,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.00,
-                    0.00
+                    -88.54788281432756,
+                    39.106732242292736
                 ]
             },
             "type": "Feature",
@@ -2003,12 +1911,12 @@
                 "City": "Urbandale",
                 "State": "IA",
                 "Zip": "50322",
-                "Notes": "Division: Residential",
+                "Notes": "Division: Residential - Yellow- Mostly VA can look into getting someone else in the area",
                 "AM": "Trista",
                 "Contact": "",
                 "Phone": "515-577-2899",
                 "Email": "adam.pender@nsm-seating.com",
-                "Website": "",
+                "Website": "https://www.nsm-seating.com/branch-locator-map/",
                 "Other": "",
                 "vaonly": "",
                 "freedomnow": "",
@@ -2313,8 +2221,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.00,
-                    0.00
+                    -87.15327795097392,
+                    38.65897572538021
                 ]
             },
             "type": "Feature",
@@ -3003,8 +2911,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.00,
-                    0.00
+                    -90.18474171353719,
+                    46.4489305364113
                 ]
             },
             "type": "Feature",
@@ -6880,12 +6788,12 @@
                 "State": "VA",
                 "Zip": "23225",
                 "Notes": "",
-                "AM": "",
-                "Contact": "",
-                "Phone": "",
-                "Email": "",
-                "Website": "",
-                "Other": "",
+                "AM": "Dona",
+                "Contact": "Patrise Cauls",
+                "Phone": "866-202-8607",
+                "Email": "Patrise.Cauls@mobilityworks.com",
+                "Website": "https://www.mobilityworks.com/",
+                "Other": " Richmond",
                 "vaonly": "",
                 "freedomnow": "",
                 "homeaccess": "",
@@ -7688,7 +7596,7 @@
                 "HubSpotId": "",
                 "EpicorId": "",
                 "EpicorNum": 0,
-                "storeid": "168"
+                "storeid": "030"
             }
         },
         {
@@ -7734,7 +7642,7 @@
                 "HubSpotId": "",
                 "EpicorId": "",
                 "EpicorNum": 0,
-                "storeid": "169"
+                "storeid": "020"
             }
         },
         {
